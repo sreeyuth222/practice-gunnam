@@ -13,3 +13,8 @@ Their songs helped shape my taste in music and always keep me motivated.
 1. Chester Bennington
 2. Mike Shinoda
 3. Eminem
+
+### Favorite Books
+- The Alchemist
+- Atomic Habits
+- Rich Dad Poor Dad
