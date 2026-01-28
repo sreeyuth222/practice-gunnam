@@ -18,3 +18,9 @@ Their songs helped shape my taste in music and always keep me motivated.
 - The Alchemist
 - Atomic Habits
 - Rich Dad Poor Dad
+
+---
+
+## My Favourite Location
+
+[My Favourite Location in Colorado](MyLocation.md)
