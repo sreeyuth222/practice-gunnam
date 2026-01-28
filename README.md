@@ -47,3 +47,20 @@ Below is a list of places I would like to visit in the future and the reasons wh
 
 > "Zindagi ek safar hai suhana"
 > *Anand Bakshi*
+
+---
+
+## Code Example: Python Funtion
+
+The following Python function calculates the average of a list of numbers. This example demonstrates basic Python syntax, funcion definition, and returning values. 
+
+```python
+def calculate_average(numbers):
+    return sum(numbers) / len(numbers)
+
+values = [10, 20, 30, 40]
+print(calculate_average(values))
+```
+
+https://www.w3schools.com/python/python_functions.asp
+
