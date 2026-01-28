@@ -37,3 +37,13 @@ Below is a list of places I would like to visit in the future and the reasons wh
 | Switzerland      | Scenic mountains and peacful cities               | ~4,300 miles       | 3,000             |
 | Italy            | History, art, and architecture                    | ~4,900 miles       | 2,800             |
 | Australia        | Beaches and natural wildlife                      | ~9,500 miles       | 3,200             |
+
+---
+
+## Favourite Lyrics
+
+> "Yuvathaku palikina bhasha Telugu ra"
+> *A. R. Rahman*
+
+> "Zindagi ek safar hai suhana"
+> *Anand Bakshi*
